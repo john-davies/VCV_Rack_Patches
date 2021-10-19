@@ -84,5 +84,5 @@ The following controls are used on the prototype module:
 
 2. Currently the first three outputs of the voxglitch sequencer go to MIDI channels with the third channel driving a CHORD-KEY module. The sixth channel is intended for percussion type outputs and goes via Trigs and CV-GATE modules rather than a Prototype module. In all cases the height of the bar on the sequencer is used to control the volume.
 
-* Patch Storage:
-* SoundCloud example:
+* Patch Storage: https://patchstorage.com/generative-track-generator-5/
+* SoundCloud example:https://soundcloud.com/user-912901662/squall-at-sea
