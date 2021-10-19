@@ -1,0 +1,2625 @@
+{
+  "version": "1.1.6",
+  "modules": [
+    {
+      "id": 507,
+      "plugin": "ImpromptuModular",
+      "version": "1.1.12",
+      "model": "Clocked",
+      "params": [
+        {
+          "id": 0,
+          "value": 120.0
+        },
+        {
+          "id": 1,
+          "value": -5.0
+        },
+        {
+          "id": 2,
+          "value": -17.0
+        },
+        {
+          "id": 3,
+          "value": 2.0
+        },
+        {
+          "id": 4,
+          "value": 0.0
+        },
+        {
+          "id": 5,
+          "value": 0.00299992738
+        },
+        {
+          "id": 6,
+          "value": 0.0
+        },
+        {
+          "id": 7,
+          "value": 0.0
+        },
+        {
+          "id": 8,
+          "value": 0.5
+        },
+        {
+          "id": 9,
+          "value": 0.816499352
+        },
+        {
+          "id": 10,
+          "value": 0.5
+        },
+        {
+          "id": 11,
+          "value": 0.5
+        },
+        {
+          "id": 12,
+          "value": 0.0
+        },
+        {
+          "id": 13,
+          "value": 0.0
+        },
+        {
+          "id": 14,
+          "value": 0.0
+        },
+        {
+          "id": 15,
+          "value": 0.0
+        },
+        {
+          "id": 16,
+          "value": 0.0
+        },
+        {
+          "id": 17,
+          "value": 0.0
+        },
+        {
+          "id": 18,
+          "value": 0.0
+        },
+        {
+          "id": 19,
+          "value": 0.0
+        }
+      ],
+      "leftModuleId": 535,
+      "rightModuleId": 530,
+      "data": {
+        "panelTheme": 0,
+        "running": false,
+        "displayDelayNoteMode": true,
+        "bpmDetectionMode": false,
+        "resetOnStartStop": 0,
+        "ppqn": 4,
+        "resetClockOutputsHigh": false,
+        "momentaryRunInput": true,
+        "clockMaster": false
+      },
+      "pos": [
+        10,
+        0
+      ]
+    },
+    {
+      "id": 508,
+      "plugin": "voxglitch",
+      "version": "1.34.1",
+      "model": "digitalsequencer",
+      "params": [
+        {
+          "id": 0,
+          "value": 0.0
+        },
+        {
+          "id": 1,
+          "value": 20.0
+        },
+        {
+          "id": 2,
+          "value": 20.0
+        },
+        {
+          "id": 3,
+          "value": 20.0
+        },
+        {
+          "id": 4,
+          "value": 32.0
+        },
+        {
+          "id": 5,
+          "value": 32.0
+        },
+        {
+          "id": 6,
+          "value": 20.0
+        },
+        {
+          "id": 7,
+          "value": 0.0
+        },
+        {
+          "id": 8,
+          "value": 0.0
+        },
+        {
+          "id": 9,
+          "value": 0.0
+        },
+        {
+          "id": 10,
+          "value": 0.0
+        },
+        {
+          "id": 11,
+          "value": 0.0
+        },
+        {
+          "id": 12,
+          "value": 0.0
+        },
+        {
+          "id": 13,
+          "value": 0.0
+        },
+        {
+          "id": 14,
+          "value": 0.0
+        }
+      ],
+      "leftModuleId": 539,
+      "data": {
+        "patterns": [
+          [
+            0,
+            19,
+            26,
+            30,
+            37,
+            43,
+            47,
+            56,
+            61,
+            63,
+            73,
+            82,
+            108,
+            124,
+            123,
+            101,
+            50,
+            35,
+            14,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            17,
+            24,
+            37,
+            57,
+            89,
+            106,
+            113,
+            123,
+            124,
+            124,
+            101,
+            83,
+            55,
+            24,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            24,
+            44,
+            51,
+            61,
+            64,
+            64,
+            55,
+            41,
+            38,
+            62,
+            87,
+            87,
+            94,
+            98,
+            95,
+            86,
+            82,
+            67,
+            61,
+            50,
+            76,
+            81,
+            85,
+            91,
+            95,
+            101,
+            106,
+            110,
+            113,
+            117,
+            123,
+            127
+          ],
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            168,
+            176,
+            161,
+            0,
+            0,
+            0,
+            0,
+            155,
+            166,
+            185,
+            193,
+            205,
+            210,
+            194,
+            170,
+            156,
+            139,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        ],
+        "gates": [
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        ],
+        "lengths": [
+          20,
+          20,
+          20,
+          32,
+          32,
+          20
+        ],
+        "voltage_ranges": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "snap_divisions": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "sample_and_hold": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "legacy_reset": 0
+      },
+      "pos": [
+        75,
+        0
+      ]
+    },
+    {
+      "id": 509,
+      "plugin": "VCV-Prototype",
+      "version": "1.3.0",
+      "model": "Prototype",
+      "params": [
+        {
+          "id": 0,
+          "value": 0.5
+        },
+        {
+          "id": 1,
+          "value": 0.0995000154
+        },
+        {
+          "id": 2,
+          "value": 0.874800205
+        },
+        {
+          "id": 3,
+          "value": 0.643000484
+        },
+        {
+          "id": 4,
+          "value": 0.5
+        },
+        {
+          "id": 5,
+          "value": 0.55550015
+        },
+        {
+          "id": 6,
+          "value": 0.0
+        },
+        {
+          "id": 7,
+          "value": 0.0
+        },
+        {
+          "id": 8,
+          "value": 0.0
+        },
+        {
+          "id": 9,
+          "value": 0.0
+        },
+        {
+          "id": 10,
+          "value": 0.0
+        },
+        {
+          "id": 11,
+          "value": 0.0
+        }
+      ],
+      "leftModuleId": 532,
+      "rightModuleId": 516,
+      "data": {
+        "path": "/home/john/Dropbox/vcvrack/track_gen5.lua",
+        "script": "-- Generative music code for VCV Rack Prototype Module\n--     See: https://vcvrack.com/Prototype\n-- Copyright (C) 2021 John Davies\n--\n-- This program is free software: you can redistribute it and/or modify\n-- it under the terms of the GNU General Public License as published by\n-- the Free Software Foundation, either version 3 of the License, or\n-- (at your option) any later version.\n--\n-- This program is distributed in the hope that it will be useful,\n-- but WITHOUT ANY WARRANTY; without even the implied warranty of\n-- MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the\n-- GNU General Public License for more details.\n--\n-- You should have received a copy of the GNU General Public License\n-- along with this program.  If not, see <http:--www.gnu.org/licenses/>.\n\nconfig.frameDivider = 32\n\n-- Constants\n-- Colours\nled_red = { 255, 0, 0 }\nled_green = { 0, 255, 0 }\nled_off = { 0, 0, 0 }\nled_yellow = { 255, 255, 0 }\nled_blue = { 0, 0, 255 }\n\n-- Numerical constants\nenable_threshold = 0.1\nclock_threshold_low = 0.1\nclock_threshold_high = 0.1\nclock_high = 10\nclock_low = 0\n\n-- Variables\nfirst = true\ncurrent_clock = 0\noctave_modifier = 0\nmute_track = false\nmute_switch = false\n\nfunction process( block )\n\n  -- Initialise the random number generator the first time through\n  -- using the noise generator\n  if first == true then\n    math.randomseed( block.inputs[3][1] * block.inputs[3][1] )\n    first = false\n  end\n\n  -- Text display\n  offset = ( block.knobs[1] - 0.5 ) * 20\n  scale = block.knobs[2]\n  display(\"Min V: \" .. string.format(\"%.2f\", ( -( scale * 10 ) + offset + octave_modifier ) ) ..\n           \" Max V: \" .. string.format(\"%.2f\", ( scale * 10 ) + offset + octave_modifier ) )\n  -- Octave Lights\n  -- Set all lights off\n  block.lights[2][1] = led_off[1]\n  block.lights[2][2] = led_off[2]\n  block.lights[2][3] = led_off[3]\n  block.lights[3][1] = led_off[1]\n  block.lights[3][2] = led_off[2]\n  block.lights[3][3] = led_off[3]\n  block.lights[4][1] = led_off[1]\n  block.lights[4][2] = led_off[2]\n  block.lights[4][3] = led_off[3]\n  block.lights[5][1] = led_off[1]\n  block.lights[5][2] = led_off[2]\n  block.lights[5][3] = led_off[3]\n  block.lights[6][1] = led_off[1]\n  block.lights[6][2] = led_off[2]\n  block.lights[6][3] = led_off[3]\n\n  -- Check which one to light and set octave modifier value\n  if block.knobs[4] < 0.2\n  then\n    block.lights[2][1] = led_yellow[1]\n    block.lights[2][2] = led_yellow[2]\n    block.lights[2][3] = led_yellow[3]\n    octave_modifier = -2\n  elseif block.knobs[4] < 0.4\n  then\n    block.lights[3][1] = led_yellow[1]\n    block.lights[3][2] = led_yellow[2]\n    block.lights[3][3] = led_yellow[3]\n    octave_modifier = -1\n  elseif block.knobs[4] < 0.6\n  then\n    block.lights[4][1] = led_blue[1]\n    block.lights[4][2] = led_blue[2]\n    block.lights[4][3] = led_blue[3]\n    octave_modifier = 0\n  elseif block.knobs[4] < 0.8\n  then\n    block.lights[5][1] = led_yellow[1]\n    block.lights[5][2] = led_yellow[2]\n    block.lights[5][3] = led_yellow[3]\n    octave_modifier = 1\n  else\n    block.lights[6][1] = led_yellow[1]\n    block.lights[6][2] = led_yellow[2]\n    block.lights[6][3] = led_yellow[3]\n    octave_modifier = 2\n  end\n\n  -- Check rising edge of mute switch\n  if ( block.switches[1] == true ) and ( mute_switch == false ) then\n    mute_track = not mute_track\n  end\n  mute_switch = block.switches[1]\n\n  -- Check mute enable\n  if mute_track == false then\n    -- Set switch light to green\n    block.switchLights[1][1] = led_green[1]\n    block.switchLights[1][2] = led_green[2]\n    block.switchLights[1][3] = led_green[3]\n  else\n    -- Set switch to red\n    block.switchLights[1][1] = led_red[1]\n    block.switchLights[1][2] = led_red[2]\n    block.switchLights[1][3] = led_red[3]\n  end\n\n  -- Check for enable and not muted\n  if ( block.inputs[2][1] > enable_threshold ) and ( mute_track == false ) then\n    -- Set LED\n    block.lights[1][1] = led_green[1]\n    block.lights[1][2] = led_green[2]\n    block.lights[1][3] = led_green[3]\n    -- Check for a rising edge on the clock line\n    new_clock = block.inputs[1][1]\n    -- Rising edge so set output trigger\n    if ( current_clock < clock_threshold_low ) and\n       ( new_clock > clock_threshold_high )\n    then\n      -- Copy noise input to output, using scaling and limiting\n      if( math.random() < block.knobs[3] )\n      then\n        op_volts = ( block.inputs[3][1] * scale ) + offset + octave_modifier\n        if op_volts > 10 then\n          op_volts = 10\n        end\n        block.outputs[2][1] = op_volts\n        -- Set trigger\n        block.outputs[1][1] = clock_high\n      end\n    end\n    -- Clock low so clear trigger\n    if new_clock < clock_threshold_low then\n      block.outputs[1][1] = clock_low\n    end\n\n  else\n    -- Not enabled so turn LED off\n    block.lights[1][1] = led_off[1]\n    block.lights[1][2] = led_off[2]\n    block.lights[1][3] = led_off[3]\n  end\n  -- Update clock value\n  current_clock = new_clock\n\nend\n"
+      },
+      "pos": [
+        39,
+        1
+      ]
+    },
+    {
+      "id": 511,
+      "plugin": "Core",
+      "version": "1.1.6",
+      "model": "AudioInterface",
+      "params": [],
+      "leftModuleId": 534,
+      "data": {
+        "audio": {
+          "driver": 1,
+          "deviceName": "default",
+          "offset": 0,
+          "maxChannels": 8,
+          "sampleRate": 44100,
+          "blockSize": 1024
+        }
+      },
+      "pos": [
+        105,
+        1
+      ]
+    },
+    {
+      "id": 512,
+      "plugin": "Core",
+      "version": "1.1.6",
+      "model": "CV-MIDI",
+      "params": [],
+      "leftModuleId": 516,
+      "rightModuleId": 533,
+      "data": {
+        "midi": {
+          "driver": 2,
+          "deviceName": "yoshimi:input 130:0",
+          "channel": 0
+        }
+      },
+      "pos": [
+        62,
+        1
+      ]
+    },
+    {
+      "id": 515,
+      "plugin": "Bogaudio",
+      "version": "1.1.38",
+      "model": "Bogaudio-Noise",
+      "params": [],
+      "leftModuleId": 531,
+      "rightModuleId": 532,
+      "data": {
+        "poly_channels": 1
+      },
+      "pos": [
+        34,
+        1
+      ]
+    },
+    {
+      "id": 516,
+      "plugin": "ML_modules",
+      "version": "1.1.3",
+      "model": "Quantum",
+      "params": [
+        {
+          "id": 0,
+          "value": 0.0
+        },
+        {
+          "id": 1,
+          "value": 0.0
+        },
+        {
+          "id": 2,
+          "value": 0.0
+        },
+        {
+          "id": 3,
+          "value": 0.0
+        },
+        {
+          "id": 4,
+          "value": 0.0
+        },
+        {
+          "id": 5,
+          "value": 0.0
+        },
+        {
+          "id": 6,
+          "value": 0.0
+        },
+        {
+          "id": 7,
+          "value": 0.0
+        },
+        {
+          "id": 8,
+          "value": 0.0
+        },
+        {
+          "id": 9,
+          "value": 0.0
+        },
+        {
+          "id": 10,
+          "value": 0.0
+        },
+        {
+          "id": 11,
+          "value": 0.0
+        }
+      ],
+      "leftModuleId": 509,
+      "rightModuleId": 512,
+      "data": {
+        "scale": [
+          0,
+          0,
+          1,
+          0,
+          0,
+          1,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        "mode": 1,
+        "transpose_select": 1,
+        "toggle_mode": 0
+      },
+      "pos": [
+        54,
+        1
+      ]
+    },
+    {
+      "id": 521,
+      "plugin": "Core",
+      "version": "1.1.6",
+      "model": "Notes",
+      "params": [],
+      "leftModuleId": 537,
+      "rightModuleId": 531,
+      "text": "In1 = Clock\nIn2 = Enable / Gate\nIn3 = Noise source \n           ( +/- 10V, 0V = middle C )\n\nOut1 = Trigger\nOut2 = Note\n\nPot1 = Offset for note output\nPot2 = Scale for note output\nPot3 = Probability\nPot4 = Octave  +/- 2 octaves\n( see LEDs below )\n\nLED 1 = On when enabled\nLED2 to 6 = Octave selects\n\nS1 - Mute (Red) / PLay (Green)\n ",
+      "pos": [
+        16,
+        1
+      ]
+    },
+    {
+      "id": 523,
+      "plugin": "ML_modules",
+      "version": "1.1.3",
+      "model": "Quantum",
+      "params": [
+        {
+          "id": 0,
+          "value": 0.0
+        },
+        {
+          "id": 1,
+          "value": 0.0
+        },
+        {
+          "id": 2,
+          "value": 0.0
+        },
+        {
+          "id": 3,
+          "value": 0.0
+        },
+        {
+          "id": 4,
+          "value": 0.0
+        },
+        {
+          "id": 5,
+          "value": 0.0
+        },
+        {
+          "id": 6,
+          "value": 0.0
+        },
+        {
+          "id": 7,
+          "value": 0.0
+        },
+        {
+          "id": 8,
+          "value": 0.0
+        },
+        {
+          "id": 9,
+          "value": 0.0
+        },
+        {
+          "id": 10,
+          "value": 0.0
+        },
+        {
+          "id": 11,
+          "value": 0.0
+        }
+      ],
+      "leftModuleId": 525,
+      "rightModuleId": 539,
+      "data": {
+        "scale": [
+          1,
+          0,
+          1,
+          0,
+          1,
+          1,
+          0,
+          1,
+          0,
+          1,
+          0,
+          1
+        ],
+        "mode": 1,
+        "transpose_select": 1,
+        "toggle_mode": 0
+      },
+      "pos": [
+        65,
+        0
+      ]
+    },
+    {
+      "id": 525,
+      "plugin": "Fundamental",
+      "version": "1.4.0",
+      "model": "Random",
+      "params": [
+        {
+          "id": 0,
+          "value": 1.0
+        },
+        {
+          "id": 1,
+          "value": 0.0
+        },
+        {
+          "id": 2,
+          "value": 1.0
+        },
+        {
+          "id": 3,
+          "value": 1.0
+        }
+      ],
+      "leftModuleId": 526,
+      "rightModuleId": 523,
+      "pos": [
+        60,
+        0
+      ]
+    },
+    {
+      "id": 526,
+      "plugin": "CountModula",
+      "version": "1.16.0",
+      "model": "ClockDivider",
+      "params": [
+        {
+          "id": 0,
+          "value": 0.0
+        },
+        {
+          "id": 1,
+          "value": 0.0
+        },
+        {
+          "id": 2,
+          "value": 0.0
+        }
+      ],
+      "leftModuleId": 538,
+      "rightModuleId": 525,
+      "data": {
+        "moduleVersion": 2,
+        "count": 137,
+        "mode": 0,
+        "doTrigs": false,
+        "countUp": false,
+        "theme": 0
+      },
+      "pos": [
+        52,
+        0
+      ]
+    },
+    {
+      "id": 527,
+      "plugin": "VCV-Prototype",
+      "version": "1.3.0",
+      "model": "Prototype",
+      "params": [
+        {
+          "id": 0,
+          "value": 0.5
+        },
+        {
+          "id": 1,
+          "value": 0.0995000154
+        },
+        {
+          "id": 2,
+          "value": 0.742799461
+        },
+        {
+          "id": 3,
+          "value": 0.343000561
+        },
+        {
+          "id": 4,
+          "value": 0.5
+        },
+        {
+          "id": 5,
+          "value": 0.55550015
+        },
+        {
+          "id": 6,
+          "value": 0.0
+        },
+        {
+          "id": 7,
+          "value": 0.0
+        },
+        {
+          "id": 8,
+          "value": 0.0
+        },
+        {
+          "id": 9,
+          "value": 0.0
+        },
+        {
+          "id": 10,
+          "value": 0.0
+        },
+        {
+          "id": 11,
+          "value": 0.0
+        }
+      ],
+      "leftModuleId": 533,
+      "rightModuleId": 528,
+      "data": {
+        "path": "/home/john/Dropbox/vcvrack/track_gen5.lua",
+        "script": "-- Generative music code for VCV Rack Prototype Module\n--     See: https://vcvrack.com/Prototype\n-- Copyright (C) 2021 John Davies\n--\n-- This program is free software: you can redistribute it and/or modify\n-- it under the terms of the GNU General Public License as published by\n-- the Free Software Foundation, either version 3 of the License, or\n-- (at your option) any later version.\n--\n-- This program is distributed in the hope that it will be useful,\n-- but WITHOUT ANY WARRANTY; without even the implied warranty of\n-- MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the\n-- GNU General Public License for more details.\n--\n-- You should have received a copy of the GNU General Public License\n-- along with this program.  If not, see <http:--www.gnu.org/licenses/>.\n\nconfig.frameDivider = 32\n\n-- Constants\n-- Colours\nled_red = { 255, 0, 0 }\nled_green = { 0, 255, 0 }\nled_off = { 0, 0, 0 }\nled_yellow = { 255, 255, 0 }\nled_blue = { 0, 0, 255 }\n\n-- Numerical constants\nenable_threshold = 0.1\nclock_threshold_low = 0.1\nclock_threshold_high = 0.1\nclock_high = 10\nclock_low = 0\n\n-- Variables\nfirst = true\ncurrent_clock = 0\noctave_modifier = 0\nmute_track = false\nmute_switch = false\n\nfunction process( block )\n\n  -- Initialise the random number generator the first time through\n  -- using the noise generator\n  if first == true then\n    math.randomseed( block.inputs[3][1] * block.inputs[3][1] )\n    first = false\n  end\n\n  -- Text display\n  offset = ( block.knobs[1] - 0.5 ) * 20\n  scale = block.knobs[2]\n  display(\"Min V: \" .. string.format(\"%.2f\", ( -( scale * 10 ) + offset + octave_modifier ) ) ..\n           \" Max V: \" .. string.format(\"%.2f\", ( scale * 10 ) + offset + octave_modifier ) )\n  -- Octave Lights\n  -- Set all lights off\n  block.lights[2][1] = led_off[1]\n  block.lights[2][2] = led_off[2]\n  block.lights[2][3] = led_off[3]\n  block.lights[3][1] = led_off[1]\n  block.lights[3][2] = led_off[2]\n  block.lights[3][3] = led_off[3]\n  block.lights[4][1] = led_off[1]\n  block.lights[4][2] = led_off[2]\n  block.lights[4][3] = led_off[3]\n  block.lights[5][1] = led_off[1]\n  block.lights[5][2] = led_off[2]\n  block.lights[5][3] = led_off[3]\n  block.lights[6][1] = led_off[1]\n  block.lights[6][2] = led_off[2]\n  block.lights[6][3] = led_off[3]\n\n  -- Check which one to light and set octave modifier value\n  if block.knobs[4] < 0.2\n  then\n    block.lights[2][1] = led_yellow[1]\n    block.lights[2][2] = led_yellow[2]\n    block.lights[2][3] = led_yellow[3]\n    octave_modifier = -2\n  elseif block.knobs[4] < 0.4\n  then\n    block.lights[3][1] = led_yellow[1]\n    block.lights[3][2] = led_yellow[2]\n    block.lights[3][3] = led_yellow[3]\n    octave_modifier = -1\n  elseif block.knobs[4] < 0.6\n  then\n    block.lights[4][1] = led_blue[1]\n    block.lights[4][2] = led_blue[2]\n    block.lights[4][3] = led_blue[3]\n    octave_modifier = 0\n  elseif block.knobs[4] < 0.8\n  then\n    block.lights[5][1] = led_yellow[1]\n    block.lights[5][2] = led_yellow[2]\n    block.lights[5][3] = led_yellow[3]\n    octave_modifier = 1\n  else\n    block.lights[6][1] = led_yellow[1]\n    block.lights[6][2] = led_yellow[2]\n    block.lights[6][3] = led_yellow[3]\n    octave_modifier = 2\n  end\n\n  -- Check rising edge of mute switch\n  if ( block.switches[1] == true ) and ( mute_switch == false ) then\n    mute_track = not mute_track\n  end\n  mute_switch = block.switches[1]\n\n  -- Check mute enable\n  if mute_track == false then\n    -- Set switch light to green\n    block.switchLights[1][1] = led_green[1]\n    block.switchLights[1][2] = led_green[2]\n    block.switchLights[1][3] = led_green[3]\n  else\n    -- Set switch to red\n    block.switchLights[1][1] = led_red[1]\n    block.switchLights[1][2] = led_red[2]\n    block.switchLights[1][3] = led_red[3]\n  end\n\n  -- Check for enable and not muted\n  if ( block.inputs[2][1] > enable_threshold ) and ( mute_track == false ) then\n    -- Set LED\n    block.lights[1][1] = led_green[1]\n    block.lights[1][2] = led_green[2]\n    block.lights[1][3] = led_green[3]\n    -- Check for a rising edge on the clock line\n    new_clock = block.inputs[1][1]\n    -- Rising edge so set output trigger\n    if ( current_clock < clock_threshold_low ) and\n       ( new_clock > clock_threshold_high )\n    then\n      -- Copy noise input to output, using scaling and limiting\n      if( math.random() < block.knobs[3] )\n      then\n        op_volts = ( block.inputs[3][1] * scale ) + offset + octave_modifier\n        if op_volts > 10 then\n          op_volts = 10\n        end\n        block.outputs[2][1] = op_volts\n        -- Set trigger\n        block.outputs[1][1] = clock_high\n      end\n    end\n    -- Clock low so clear trigger\n    if new_clock < clock_threshold_low then\n      block.outputs[1][1] = clock_low\n    end\n\n  else\n    -- Not enabled so turn LED off\n    block.lights[1][1] = led_off[1]\n    block.lights[1][2] = led_off[2]\n    block.lights[1][3] = led_off[3]\n  end\n  -- Update clock value\n  current_clock = new_clock\n\nend\n"
+      },
+      "pos": [
+        72,
+        1
+      ]
+    },
+    {
+      "id": 528,
+      "plugin": "ML_modules",
+      "version": "1.1.3",
+      "model": "Quantum",
+      "params": [
+        {
+          "id": 0,
+          "value": 0.0
+        },
+        {
+          "id": 1,
+          "value": 0.0
+        },
+        {
+          "id": 2,
+          "value": 0.0
+        },
+        {
+          "id": 3,
+          "value": 0.0
+        },
+        {
+          "id": 4,
+          "value": 0.0
+        },
+        {
+          "id": 5,
+          "value": 0.0
+        },
+        {
+          "id": 6,
+          "value": 0.0
+        },
+        {
+          "id": 7,
+          "value": 0.0
+        },
+        {
+          "id": 8,
+          "value": 0.0
+        },
+        {
+          "id": 9,
+          "value": 0.0
+        },
+        {
+          "id": 10,
+          "value": 0.0
+        },
+        {
+          "id": 11,
+          "value": 0.0
+        }
+      ],
+      "leftModuleId": 527,
+      "rightModuleId": 529,
+      "data": {
+        "scale": [
+          0,
+          0,
+          1,
+          0,
+          0,
+          1,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        "mode": 1,
+        "transpose_select": 1,
+        "toggle_mode": 0
+      },
+      "pos": [
+        87,
+        1
+      ]
+    },
+    {
+      "id": 529,
+      "plugin": "Core",
+      "version": "1.1.6",
+      "model": "CV-MIDI",
+      "params": [],
+      "leftModuleId": 528,
+      "rightModuleId": 534,
+      "data": {
+        "midi": {
+          "driver": 2,
+          "deviceName": "yoshimi:input 130:0",
+          "channel": 1
+        }
+      },
+      "pos": [
+        95,
+        1
+      ]
+    },
+    {
+      "id": 530,
+      "plugin": "ImpromptuModular",
+      "version": "1.1.12",
+      "model": "Clocked",
+      "params": [
+        {
+          "id": 0,
+          "value": 120.0
+        },
+        {
+          "id": 1,
+          "value": 5.0
+        },
+        {
+          "id": 2,
+          "value": -2.0
+        },
+        {
+          "id": 3,
+          "value": -9.0
+        },
+        {
+          "id": 4,
+          "value": 0.0
+        },
+        {
+          "id": 5,
+          "value": 0.00299992738
+        },
+        {
+          "id": 6,
+          "value": 0.0
+        },
+        {
+          "id": 7,
+          "value": 0.0
+        },
+        {
+          "id": 8,
+          "value": 0.5
+        },
+        {
+          "id": 9,
+          "value": 0.816499352
+        },
+        {
+          "id": 10,
+          "value": 0.949999988
+        },
+        {
+          "id": 11,
+          "value": 0.949999988
+        },
+        {
+          "id": 12,
+          "value": 0.0
+        },
+        {
+          "id": 13,
+          "value": 0.0
+        },
+        {
+          "id": 14,
+          "value": 0.0
+        },
+        {
+          "id": 15,
+          "value": 0.0
+        },
+        {
+          "id": 16,
+          "value": 0.0
+        },
+        {
+          "id": 17,
+          "value": 0.0
+        },
+        {
+          "id": 18,
+          "value": 0.0
+        },
+        {
+          "id": 19,
+          "value": 0.0
+        }
+      ],
+      "leftModuleId": 507,
+      "rightModuleId": 538,
+      "data": {
+        "panelTheme": 0,
+        "running": false,
+        "displayDelayNoteMode": true,
+        "bpmDetectionMode": false,
+        "resetOnStartStop": 0,
+        "ppqn": 4,
+        "resetClockOutputsHigh": false,
+        "momentaryRunInput": true,
+        "clockMaster": false
+      },
+      "pos": [
+        30,
+        0
+      ]
+    },
+    {
+      "id": 531,
+      "plugin": "cf",
+      "version": "1.1.1",
+      "model": "LABEL",
+      "params": [],
+      "leftModuleId": 521,
+      "rightModuleId": 515,
+      "data": {
+        "lastPath": "Noise generator"
+      },
+      "pos": [
+        32,
+        1
+      ]
+    },
+    {
+      "id": 532,
+      "plugin": "cf",
+      "version": "1.1.1",
+      "model": "LABEL",
+      "params": [],
+      "leftModuleId": 515,
+      "rightModuleId": 509,
+      "data": {
+        "lastPath": "Instrument #1"
+      },
+      "pos": [
+        37,
+        1
+      ]
+    },
+    {
+      "id": 533,
+      "plugin": "cf",
+      "version": "1.1.1",
+      "model": "LABEL",
+      "params": [],
+      "leftModuleId": 512,
+      "rightModuleId": 527,
+      "data": {
+        "lastPath": "Instrument #2"
+      },
+      "pos": [
+        70,
+        1
+      ]
+    },
+    {
+      "id": 534,
+      "plugin": "cf",
+      "version": "1.1.1",
+      "model": "LABEL",
+      "params": [],
+      "leftModuleId": 529,
+      "rightModuleId": 511,
+      "data": {
+        "lastPath": "Audio - timing only"
+      },
+      "pos": [
+        103,
+        1
+      ]
+    },
+    {
+      "id": 535,
+      "plugin": "CountModula",
+      "version": "1.16.0",
+      "model": "EventTimer",
+      "params": [
+        {
+          "id": 0,
+          "value": 0.0
+        },
+        {
+          "id": 1,
+          "value": 0.0
+        },
+        {
+          "id": 2,
+          "value": 0.0
+        },
+        {
+          "id": 3,
+          "value": 0.0
+        },
+        {
+          "id": 4,
+          "value": 0.0
+        },
+        {
+          "id": 5,
+          "value": 0.0
+        },
+        {
+          "id": 6,
+          "value": 0.0
+        },
+        {
+          "id": 7,
+          "value": 0.0
+        }
+      ],
+      "leftModuleId": 536,
+      "rightModuleId": 507,
+      "data": {
+        "moduleVersion": 1,
+        "length": 81,
+        "count": 81,
+        "running": true,
+        "clockState": false,
+        "theme": 0
+      },
+      "pos": [
+        2,
+        0
+      ]
+    },
+    {
+      "id": 536,
+      "plugin": "cf",
+      "version": "1.1.1",
+      "model": "LABEL",
+      "params": [],
+      "rightModuleId": 535,
+      "data": {
+        "lastPath": "Bar count"
+      },
+      "pos": [
+        0,
+        0
+      ]
+    },
+    {
+      "id": 537,
+      "plugin": "Core",
+      "version": "1.1.6",
+      "model": "Notes",
+      "params": [],
+      "rightModuleId": 521,
+      "text": "Clocked Modules\n\nLeft hand\nCLK1 - Bar count\nCLK2 - Step count\nCLK3 - Percussion\n\nRight hand\nCLK1 - Instrument #1\nCLK2 - Instrument #2\nCLK3 - Chords\n\n ",
+      "pos": [
+        0,
+        1
+      ]
+    },
+    {
+      "id": 538,
+      "plugin": "cf",
+      "version": "1.1.1",
+      "model": "LABEL",
+      "params": [],
+      "leftModuleId": 530,
+      "rightModuleId": 526,
+      "data": {
+        "lastPath": "Melody randomiser"
+      },
+      "pos": [
+        50,
+        0
+      ]
+    },
+    {
+      "id": 539,
+      "plugin": "cf",
+      "version": "1.1.1",
+      "model": "LABEL",
+      "params": [],
+      "leftModuleId": 523,
+      "rightModuleId": 508,
+      "data": {
+        "lastPath": "Instrument control"
+      },
+      "pos": [
+        73,
+        0
+      ]
+    },
+    {
+      "id": 541,
+      "plugin": "ImpromptuModular",
+      "version": "1.1.12",
+      "model": "Chord-Key",
+      "params": [
+        {
+          "id": 0,
+          "value": 0.0
+        },
+        {
+          "id": 1,
+          "value": 0.0
+        },
+        {
+          "id": 2,
+          "value": 0.0
+        },
+        {
+          "id": 3,
+          "value": 0.0
+        },
+        {
+          "id": 4,
+          "value": 0.0
+        },
+        {
+          "id": 5,
+          "value": 0.0
+        },
+        {
+          "id": 6,
+          "value": 0.0
+        },
+        {
+          "id": 7,
+          "value": 0.0
+        },
+        {
+          "id": 8,
+          "value": 0.0
+        },
+        {
+          "id": 9,
+          "value": 0.0
+        },
+        {
+          "id": 10,
+          "value": 0.0
+        },
+        {
+          "id": 11,
+          "value": 0.0
+        }
+      ],
+      "leftModuleId": 543,
+      "rightModuleId": 544,
+      "data": {
+        "panelTheme": 0,
+        "octs": [
+          4,
+          4,
+          4,
+          5,
+          4,
+          4,
+          4,
+          5,
+          4,
+          4,
+          4,
+          5,
+          4,
+          4,
+          4,
+          5,
+          4,
+          4,
+          4,
+          5,
+          4,
+          4,
+          5,
+          5,
+          4,
+          4,
+          5,
+          5,
+          4,
+          4,
+          5,
+          5,
+          4,
+          4,
+          5,
+          5,
+          4,
+          5,
+          5,
+          5,
+          4,
+          5,
+          5,
+          5,
+          4,
+          5,
+          5,
+          5,
+          4,
+          4,
+          4,
+          5,
+          4,
+          4,
+          4,
+          5,
+          4,
+          4,
+          4,
+          5,
+          4,
+          4,
+          4,
+          5,
+          4,
+          4,
+          4,
+          5,
+          4,
+          4,
+          4,
+          5,
+          4,
+          4,
+          4,
+          5,
+          4,
+          4,
+          4,
+          5,
+          4,
+          4,
+          4,
+          5,
+          4,
+          4,
+          4,
+          5,
+          4,
+          4,
+          4,
+          5,
+          4,
+          4,
+          4,
+          5,
+          4,
+          4,
+          4,
+          5
+        ],
+        "keys": [
+          0,
+          4,
+          7,
+          0,
+          0,
+          4,
+          7,
+          0,
+          2,
+          5,
+          9,
+          2,
+          2,
+          5,
+          9,
+          2,
+          4,
+          7,
+          11,
+          4,
+          5,
+          9,
+          0,
+          5,
+          5,
+          9,
+          0,
+          5,
+          7,
+          11,
+          2,
+          7,
+          7,
+          11,
+          2,
+          7,
+          9,
+          0,
+          4,
+          9,
+          9,
+          0,
+          4,
+          9,
+          11,
+          2,
+          5,
+          11,
+          0,
+          4,
+          7,
+          0,
+          0,
+          4,
+          7,
+          0,
+          0,
+          4,
+          7,
+          0,
+          0,
+          4,
+          7,
+          0,
+          0,
+          4,
+          7,
+          0,
+          0,
+          4,
+          7,
+          0,
+          0,
+          4,
+          7,
+          0,
+          0,
+          4,
+          7,
+          0,
+          0,
+          4,
+          7,
+          0,
+          0,
+          4,
+          7,
+          0,
+          0,
+          4,
+          7,
+          0,
+          0,
+          4,
+          7,
+          0,
+          0,
+          4,
+          7,
+          0
+        ],
+        "mergeOutputs": 3,
+        "keypressEmitGate": 1,
+        "autostepPaste": 0
+      },
+      "pos": [
+        54,
+        2
+      ]
+    },
+    {
+      "id": 542,
+      "plugin": "cf",
+      "version": "1.1.1",
+      "model": "LABEL",
+      "params": [],
+      "rightModuleId": 543,
+      "data": {
+        "lastPath": "Chords"
+      },
+      "pos": [
+        37,
+        2
+      ]
+    },
+    {
+      "id": 543,
+      "plugin": "VCV-Prototype",
+      "version": "1.3.0",
+      "model": "Prototype",
+      "params": [
+        {
+          "id": 0,
+          "value": 0.524999976
+        },
+        {
+          "id": 1,
+          "value": 0.0500000007
+        },
+        {
+          "id": 2,
+          "value": 1.0
+        },
+        {
+          "id": 3,
+          "value": 0.5
+        },
+        {
+          "id": 4,
+          "value": 0.5
+        },
+        {
+          "id": 5,
+          "value": 0.5
+        },
+        {
+          "id": 6,
+          "value": 0.0
+        },
+        {
+          "id": 7,
+          "value": 0.0
+        },
+        {
+          "id": 8,
+          "value": 0.0
+        },
+        {
+          "id": 9,
+          "value": 0.0
+        },
+        {
+          "id": 10,
+          "value": 0.0
+        },
+        {
+          "id": 11,
+          "value": 0.0
+        }
+      ],
+      "leftModuleId": 542,
+      "rightModuleId": 541,
+      "data": {
+        "path": "/home/john/Dropbox/vcvrack/track_gen5.lua",
+        "script": "-- Generative music code for VCV Rack Prototype Module\n--     See: https://vcvrack.com/Prototype\n-- Copyright (C) 2021 John Davies\n--\n-- This program is free software: you can redistribute it and/or modify\n-- it under the terms of the GNU General Public License as published by\n-- the Free Software Foundation, either version 3 of the License, or\n-- (at your option) any later version.\n--\n-- This program is distributed in the hope that it will be useful,\n-- but WITHOUT ANY WARRANTY; without even the implied warranty of\n-- MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the\n-- GNU General Public License for more details.\n--\n-- You should have received a copy of the GNU General Public License\n-- along with this program.  If not, see <http:--www.gnu.org/licenses/>.\n\nconfig.frameDivider = 32\n\n-- Constants\n-- Colours\nled_red = { 255, 0, 0 }\nled_green = { 0, 255, 0 }\nled_off = { 0, 0, 0 }\nled_yellow = { 255, 255, 0 }\nled_blue = { 0, 0, 255 }\n\n-- Numerical constants\nenable_threshold = 0.1\nclock_threshold_low = 0.1\nclock_threshold_high = 0.1\nclock_high = 10\nclock_low = 0\n\n-- Variables\nfirst = true\ncurrent_clock = 0\noctave_modifier = 0\nmute_track = false\nmute_switch = false\n\nfunction process( block )\n\n  -- Initialise the random number generator the first time through\n  -- using the noise generator\n  if first == true then\n    math.randomseed( block.inputs[3][1] * block.inputs[3][1] )\n    first = false\n  end\n\n  -- Text display\n  offset = ( block.knobs[1] - 0.5 ) * 20\n  scale = block.knobs[2]\n  display(\"Min V: \" .. string.format(\"%.2f\", ( -( scale * 10 ) + offset + octave_modifier ) ) ..\n           \" Max V: \" .. string.format(\"%.2f\", ( scale * 10 ) + offset + octave_modifier ) )\n  -- Octave Lights\n  -- Set all lights off\n  block.lights[2][1] = led_off[1]\n  block.lights[2][2] = led_off[2]\n  block.lights[2][3] = led_off[3]\n  block.lights[3][1] = led_off[1]\n  block.lights[3][2] = led_off[2]\n  block.lights[3][3] = led_off[3]\n  block.lights[4][1] = led_off[1]\n  block.lights[4][2] = led_off[2]\n  block.lights[4][3] = led_off[3]\n  block.lights[5][1] = led_off[1]\n  block.lights[5][2] = led_off[2]\n  block.lights[5][3] = led_off[3]\n  block.lights[6][1] = led_off[1]\n  block.lights[6][2] = led_off[2]\n  block.lights[6][3] = led_off[3]\n\n  -- Check which one to light and set octave modifier value\n  if block.knobs[4] < 0.2\n  then\n    block.lights[2][1] = led_yellow[1]\n    block.lights[2][2] = led_yellow[2]\n    block.lights[2][3] = led_yellow[3]\n    octave_modifier = -2\n  elseif block.knobs[4] < 0.4\n  then\n    block.lights[3][1] = led_yellow[1]\n    block.lights[3][2] = led_yellow[2]\n    block.lights[3][3] = led_yellow[3]\n    octave_modifier = -1\n  elseif block.knobs[4] < 0.6\n  then\n    block.lights[4][1] = led_blue[1]\n    block.lights[4][2] = led_blue[2]\n    block.lights[4][3] = led_blue[3]\n    octave_modifier = 0\n  elseif block.knobs[4] < 0.8\n  then\n    block.lights[5][1] = led_yellow[1]\n    block.lights[5][2] = led_yellow[2]\n    block.lights[5][3] = led_yellow[3]\n    octave_modifier = 1\n  else\n    block.lights[6][1] = led_yellow[1]\n    block.lights[6][2] = led_yellow[2]\n    block.lights[6][3] = led_yellow[3]\n    octave_modifier = 2\n  end\n\n  -- Check rising edge of mute switch\n  if ( block.switches[1] == true ) and ( mute_switch == false ) then\n    mute_track = not mute_track\n  end\n  mute_switch = block.switches[1]\n\n  -- Check mute enable\n  if mute_track == false then\n    -- Set switch light to green\n    block.switchLights[1][1] = led_green[1]\n    block.switchLights[1][2] = led_green[2]\n    block.switchLights[1][3] = led_green[3]\n  else\n    -- Set switch to red\n    block.switchLights[1][1] = led_red[1]\n    block.switchLights[1][2] = led_red[2]\n    block.switchLights[1][3] = led_red[3]\n  end\n\n  -- Check for enable and not muted\n  if ( block.inputs[2][1] > enable_threshold ) and ( mute_track == false ) then\n    -- Set LED\n    block.lights[1][1] = led_green[1]\n    block.lights[1][2] = led_green[2]\n    block.lights[1][3] = led_green[3]\n    -- Check for a rising edge on the clock line\n    new_clock = block.inputs[1][1]\n    -- Rising edge so set output trigger\n    if ( current_clock < clock_threshold_low ) and\n       ( new_clock > clock_threshold_high )\n    then\n      -- Copy noise input to output, using scaling and limiting\n      if( math.random() < block.knobs[3] )\n      then\n        op_volts = ( block.inputs[3][1] * scale ) + offset + octave_modifier\n        if op_volts > 10 then\n          op_volts = 10\n        end\n        block.outputs[2][1] = op_volts\n        -- Set trigger\n        block.outputs[1][1] = clock_high\n      end\n    end\n    -- Clock low so clear trigger\n    if new_clock < clock_threshold_low then\n      block.outputs[1][1] = clock_low\n    end\n\n  else\n    -- Not enabled so turn LED off\n    block.lights[1][1] = led_off[1]\n    block.lights[1][2] = led_off[2]\n    block.lights[1][3] = led_off[3]\n  end\n  -- Update clock value\n  current_clock = new_clock\n\nend\n"
+      },
+      "pos": [
+        39,
+        2
+      ]
+    },
+    {
+      "id": 544,
+      "plugin": "Core",
+      "version": "1.1.6",
+      "model": "CV-MIDI",
+      "params": [],
+      "leftModuleId": 541,
+      "rightModuleId": 546,
+      "data": {
+        "midi": {
+          "driver": 2,
+          "deviceName": "yoshimi:input 130:0",
+          "channel": 2
+        }
+      },
+      "pos": [
+        75,
+        2
+      ]
+    },
+    {
+      "id": 545,
+      "plugin": "JW-Modules",
+      "version": "1.0.29",
+      "model": "Trigs",
+      "params": [
+        {
+          "id": 0,
+          "value": 64.0
+        },
+        {
+          "id": 1,
+          "value": 0.0
+        },
+        {
+          "id": 2,
+          "value": 0.0
+        },
+        {
+          "id": 3,
+          "value": 0.0
+        },
+        {
+          "id": 4,
+          "value": 0.359499961
+        },
+        {
+          "id": 5,
+          "value": 0.0
+        }
+      ],
+      "leftModuleId": 548,
+      "rightModuleId": 549,
+      "data": {
+        "channels": 1,
+        "cells": [
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          1,
+          0,
+          1,
+          0,
+          1,
+          0,
+          0,
+          1,
+          1,
+          0,
+          0,
+          0,
+          0,
+          1,
+          1,
+          0,
+          0,
+          1,
+          0,
+          0,
+          1,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          1,
+          1,
+          0,
+          0,
+          0,
+          1,
+          0,
+          1,
+          0,
+          0,
+          0,
+          1,
+          0,
+          1,
+          1,
+          0,
+          0,
+          1,
+          0,
+          1,
+          0,
+          0,
+          1,
+          0,
+          1,
+          1,
+          0,
+          0,
+          1,
+          0,
+          1,
+          0,
+          0,
+          1,
+          1,
+          1,
+          0,
+          1,
+          0,
+          0,
+          0,
+          1,
+          1,
+          0,
+          0,
+          1,
+          0,
+          1,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          1,
+          0,
+          0,
+          0,
+          1,
+          1,
+          0,
+          1,
+          0,
+          0,
+          1,
+          0,
+          1,
+          1,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          1,
+          0,
+          1,
+          1,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          1,
+          0,
+          1,
+          1,
+          0,
+          0,
+          0,
+          1,
+          1,
+          0,
+          1,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          1,
+          1,
+          0,
+          1,
+          0,
+          0,
+          1,
+          1,
+          1,
+          1,
+          0,
+          0,
+          1,
+          1,
+          1,
+          0,
+          1,
+          1,
+          0,
+          1,
+          0,
+          1,
+          1,
+          0,
+          0,
+          1,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          1,
+          1,
+          0,
+          0,
+          1,
+          0,
+          0,
+          1,
+          0,
+          0,
+          1,
+          1,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1
+        ]
+      },
+      "pos": [
+        95,
+        2
+      ]
+    },
+    {
+      "id": 546,
+      "plugin": "cf",
+      "version": "1.1.1",
+      "model": "LABEL",
+      "params": [],
+      "leftModuleId": 544,
+      "rightModuleId": 547,
+      "data": {
+        "lastPath": "Percussion"
+      },
+      "pos": [
+        83,
+        2
+      ]
+    },
+    {
+      "id": 547,
+      "plugin": "CountModula",
+      "version": "1.16.0",
+      "model": "Comparator",
+      "params": [
+        {
+          "id": 0,
+          "value": 0.0
+        }
+      ],
+      "leftModuleId": 546,
+      "rightModuleId": 548,
+      "data": {
+        "moduleVersion": 2,
+        "theme": 0
+      },
+      "pos": [
+        85,
+        2
+      ]
+    },
+    {
+      "id": 548,
+      "plugin": "CountModula",
+      "version": "1.16.0",
+      "model": "BooleanAND",
+      "params": [],
+      "leftModuleId": 547,
+      "rightModuleId": 545,
+      "data": {
+        "moduleVersion": 3,
+        "theme": 0
+      },
+      "pos": [
+        91,
+        2
+      ]
+    },
+    {
+      "id": 549,
+      "plugin": "Core",
+      "version": "1.1.6",
+      "model": "CV-Gate",
+      "params": [],
+      "leftModuleId": 545,
+      "rightModuleId": 550,
+      "data": {
+        "notes": [
+          48,
+          49,
+          50,
+          51,
+          44,
+          45,
+          46,
+          47,
+          40,
+          41,
+          42,
+          43,
+          36,
+          37,
+          38,
+          39
+        ],
+        "velocity": false,
+        "midi": {
+          "driver": 2,
+          "deviceName": "yoshimi:input 130:0",
+          "channel": 3
+        }
+      },
+      "pos": [
+        108,
+        2
+      ]
+    },
+    {
+      "id": 550,
+      "plugin": "Core",
+      "version": "1.1.6",
+      "model": "CV-CC",
+      "params": [],
+      "leftModuleId": 549,
+      "data": {
+        "ccs": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15
+        ],
+        "midi": {
+          "driver": 2,
+          "deviceName": "yoshimi:input 130:0",
+          "channel": 3
+        }
+      },
+      "pos": [
+        118,
+        2
+      ]
+    }
+  ],
+  "cables": [
+    {
+      "id": 1593,
+      "outputModuleId": 508,
+      "outputId": 2,
+      "inputModuleId": 509,
+      "inputId": 1,
+      "color": "#c9b70e"
+    },
+    {
+      "id": 1595,
+      "outputModuleId": 509,
+      "outputId": 0,
+      "inputModuleId": 512,
+      "inputId": 1,
+      "color": "#c91847"
+    },
+    {
+      "id": 1598,
+      "outputModuleId": 507,
+      "outputId": 4,
+      "inputModuleId": 508,
+      "inputId": 2,
+      "color": "#0c8e15"
+    },
+    {
+      "id": 1608,
+      "outputModuleId": 508,
+      "outputId": 2,
+      "inputModuleId": 512,
+      "inputId": 2,
+      "color": "#c9b70e"
+    },
+    {
+      "id": 1606,
+      "outputModuleId": 516,
+      "outputId": 0,
+      "inputModuleId": 512,
+      "inputId": 0,
+      "color": "#c91847"
+    },
+    {
+      "id": 1618,
+      "outputModuleId": 509,
+      "outputId": 1,
+      "inputModuleId": 516,
+      "inputId": 0,
+      "color": "#0986ad"
+    },
+    {
+      "id": 1619,
+      "outputModuleId": 515,
+      "outputId": 0,
+      "inputModuleId": 509,
+      "inputId": 2,
+      "color": "#c91847"
+    },
+    {
+      "id": 1621,
+      "outputModuleId": 525,
+      "outputId": 0,
+      "inputModuleId": 523,
+      "inputId": 0,
+      "color": "#0986ad"
+    },
+    {
+      "id": 1622,
+      "outputModuleId": 523,
+      "outputId": 0,
+      "inputModuleId": 516,
+      "inputId": 2,
+      "color": "#c9b70e"
+    },
+    {
+      "id": 1625,
+      "outputModuleId": 526,
+      "outputId": 1,
+      "inputModuleId": 516,
+      "inputId": 3,
+      "color": "#0986ad"
+    },
+    {
+      "id": 1620,
+      "outputModuleId": 507,
+      "outputId": 1,
+      "inputModuleId": 526,
+      "inputId": 0,
+      "color": "#c91847"
+    },
+    {
+      "id": 1626,
+      "outputModuleId": 523,
+      "outputId": 0,
+      "inputModuleId": 528,
+      "inputId": 2,
+      "color": "#c9b70e"
+    },
+    {
+      "id": 1627,
+      "outputModuleId": 526,
+      "outputId": 1,
+      "inputModuleId": 528,
+      "inputId": 3,
+      "color": "#0c8e15"
+    },
+    {
+      "id": 1628,
+      "outputModuleId": 528,
+      "outputId": 0,
+      "inputModuleId": 529,
+      "inputId": 0,
+      "color": "#c91847"
+    },
+    {
+      "id": 1629,
+      "outputModuleId": 527,
+      "outputId": 0,
+      "inputModuleId": 529,
+      "inputId": 1,
+      "color": "#0986ad"
+    },
+    {
+      "id": 1630,
+      "outputModuleId": 508,
+      "outputId": 3,
+      "inputModuleId": 529,
+      "inputId": 2,
+      "color": "#c9b70e"
+    },
+    {
+      "id": 1633,
+      "outputModuleId": 527,
+      "outputId": 1,
+      "inputModuleId": 528,
+      "inputId": 0,
+      "color": "#0986ad"
+    },
+    {
+      "id": 1631,
+      "outputModuleId": 508,
+      "outputId": 3,
+      "inputModuleId": 527,
+      "inputId": 1,
+      "color": "#0c8e15"
+    },
+    {
+      "id": 1634,
+      "outputModuleId": 515,
+      "outputId": 0,
+      "inputModuleId": 527,
+      "inputId": 2,
+      "color": "#c9b70e"
+    },
+    {
+      "id": 1635,
+      "outputModuleId": 507,
+      "outputId": 1,
+      "inputModuleId": 535,
+      "inputId": 0,
+      "color": "#c9b70e"
+    },
+    {
+      "id": 1636,
+      "outputModuleId": 507,
+      "outputId": 5,
+      "inputModuleId": 535,
+      "inputId": 2,
+      "color": "#0c8e15"
+    },
+    {
+      "id": 1637,
+      "outputModuleId": 507,
+      "outputId": 4,
+      "inputModuleId": 535,
+      "inputId": 1,
+      "color": "#c91847"
+    },
+    {
+      "id": 1638,
+      "outputModuleId": 535,
+      "outputId": 1,
+      "inputModuleId": 507,
+      "inputId": 4,
+      "color": "#0986ad"
+    },
+    {
+      "id": 1639,
+      "outputModuleId": 535,
+      "outputId": 1,
+      "inputModuleId": 507,
+      "inputId": 5,
+      "color": "#c9b70e"
+    },
+    {
+      "id": 1640,
+      "outputModuleId": 507,
+      "outputId": 4,
+      "inputModuleId": 530,
+      "inputId": 4,
+      "color": "#c91847"
+    },
+    {
+      "id": 1641,
+      "outputModuleId": 507,
+      "outputId": 5,
+      "inputModuleId": 530,
+      "inputId": 5,
+      "color": "#0986ad"
+    },
+    {
+      "id": 1642,
+      "outputModuleId": 507,
+      "outputId": 6,
+      "inputModuleId": 530,
+      "inputId": 6,
+      "color": "#c9b70e"
+    },
+    {
+      "id": 1592,
+      "outputModuleId": 530,
+      "outputId": 1,
+      "inputModuleId": 509,
+      "inputId": 0,
+      "color": "#0986ad"
+    },
+    {
+      "id": 1632,
+      "outputModuleId": 530,
+      "outputId": 2,
+      "inputModuleId": 527,
+      "inputId": 0,
+      "color": "#c91847"
+    },
+    {
+      "id": 1644,
+      "outputModuleId": 543,
+      "outputId": 0,
+      "inputModuleId": 541,
+      "inputId": 1,
+      "color": "#c9b70e"
+    },
+    {
+      "id": 1645,
+      "outputModuleId": 541,
+      "outputId": 0,
+      "inputModuleId": 544,
+      "inputId": 0,
+      "color": "#0c8e15"
+    },
+    {
+      "id": 1646,
+      "outputModuleId": 541,
+      "outputId": 4,
+      "inputModuleId": 544,
+      "inputId": 1,
+      "color": "#c91847"
+    },
+    {
+      "id": 1647,
+      "outputModuleId": 508,
+      "outputId": 4,
+      "inputModuleId": 544,
+      "inputId": 2,
+      "color": "#0986ad"
+    },
+    {
+      "id": 1648,
+      "outputModuleId": 530,
+      "outputId": 3,
+      "inputModuleId": 543,
+      "inputId": 0,
+      "color": "#c9b70e"
+    },
+    {
+      "id": 1649,
+      "outputModuleId": 508,
+      "outputId": 4,
+      "inputModuleId": 543,
+      "inputId": 1,
+      "color": "#0c8e15"
+    },
+    {
+      "id": 1650,
+      "outputModuleId": 515,
+      "outputId": 0,
+      "inputModuleId": 543,
+      "inputId": 2,
+      "color": "#c91847"
+    },
+    {
+      "id": 1652,
+      "outputModuleId": 543,
+      "outputId": 1,
+      "inputModuleId": 541,
+      "inputId": 0,
+      "color": "#c9b70e"
+    },
+    {
+      "id": 1653,
+      "outputModuleId": 526,
+      "outputId": 1,
+      "inputModuleId": 525,
+      "inputId": 2,
+      "color": "#0986ad"
+    },
+    {
+      "id": 1654,
+      "outputModuleId": 507,
+      "outputId": 2,
+      "inputModuleId": 508,
+      "inputId": 1,
+      "color": "#c9b70e"
+    },
+    {
+      "id": 1676,
+      "outputModuleId": 507,
+      "outputId": 4,
+      "inputModuleId": 545,
+      "inputId": 1,
+      "color": "#c9b70e"
+    },
+    {
+      "id": 1677,
+      "outputModuleId": 545,
+      "outputId": 4,
+      "inputModuleId": 545,
+      "inputId": 2,
+      "color": "#0c8e15"
+    },
+    {
+      "id": 1675,
+      "outputModuleId": 507,
+      "outputId": 3,
+      "inputModuleId": 548,
+      "inputId": 0,
+      "color": "#0986ad"
+    },
+    {
+      "id": 1688,
+      "outputModuleId": 548,
+      "outputId": 0,
+      "inputModuleId": 545,
+      "inputId": 0,
+      "color": "#0986ad"
+    },
+    {
+      "id": 1689,
+      "outputModuleId": 508,
+      "outputId": 7,
+      "inputModuleId": 547,
+      "inputId": 1,
+      "color": "#c9b70e"
+    },
+    {
+      "id": 1690,
+      "outputModuleId": 547,
+      "outputId": 0,
+      "inputModuleId": 548,
+      "inputId": 1,
+      "color": "#0c8e15"
+    },
+    {
+      "id": 1691,
+      "outputModuleId": 545,
+      "outputId": 0,
+      "inputModuleId": 549,
+      "inputId": 0,
+      "color": "#c9b70e"
+    },
+    {
+      "id": 1695,
+      "outputModuleId": 508,
+      "outputId": 7,
+      "inputModuleId": 550,
+      "inputId": 7,
+      "color": "#0c8e15"
+    }
+  ]
+}

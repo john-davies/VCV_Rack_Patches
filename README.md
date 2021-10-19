@@ -51,3 +51,38 @@ The remaining controls are the same as for [track_gen.vcv](./track_gen.md).
 
 * Patch Storage: https://patchstorage.com/generative-track-generator-3/
 * SoundCloud example: https://soundcloud.com/user-912901662/the-river
+
+## track_gen5.vcv
+
+This is similar to track_gen3 but with two major differences:
+
+* No sound is generated within VCV Rack, the note controls now get routed to CV-MIDI modules with the intention of driving an external synth. VCV Rack is used is used just for sequencing the track.
+* The modules for random note generation / octave switching etc. have now all been replaced by software in a [VCV Rack Prototype module](https://vcvrack.com/Prototype). The software for the module is cotained in the file track_gen5.lua.
+
+### Prototype Module Controls
+
+The following controls are used on the prototype module:
+
+* In1 = Clock
+* In2 = Enable / Gate
+* In3 = Noise source ( +/- 10V, 0V = middle C )
+* Out1 = Trigger
+* Out2 = Note
+* Pot1 = Offset for note output
+* Pot2 = Scale for note output
+* Pot3 = Note probability
+* Pot4 = Octave  +/- 2 octaves ( see LEDs below )
+* LED 1 = On when enabled
+* LED 2 to 6 = Octave selects
+* S1 = Mute (Red) / Play (Green)
+
+### Notes
+
+1. The Lua code will often report an error on the first run. I have no idea what causes this because reloading the script and running again works fine. Error is similar to:
+
+`[string "track_gen5.lua"]:134: attempt to compare nil with number`
+
+2. Currently the first three outputs of the voxglitch sequencer go to MIDI channels with the third channel driving a CHORD-KEY module. The sixth channel is intended for percussion type outputs and goes via Trigs and CV-GATE modules rather than a Prototype module. In all cases the height of the bar on the sequencer is used to control the volume.
+
+* Patch Storage:
+* SoundCloud example:
